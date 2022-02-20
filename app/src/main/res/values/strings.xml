@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="ActivityA">Activity A</string>
+    <string name="ClickActivityB">Activity B</string>
+    <string name="Dialog">Dialog</string>
+    <string name="Counter">Thread Counter : 0</string>
+    <string name="CloseApp">Close App</string>
+</resources>
